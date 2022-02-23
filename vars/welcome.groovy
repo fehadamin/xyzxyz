@@ -1,4 +1,4 @@
 
-def call(String name){
+def groovy(String name){
 echo "Hi ${name}"
 }
